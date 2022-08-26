@@ -1,4 +1,4 @@
-using System.Collections.Generic;
+This implementation uses the built in List<>.Sort() method (which in this case runs quicksort), and generally aims to minimize overhead wherever possible.using System.Collections.Generic;
 using System.Linq;
 
 public class Solution {
